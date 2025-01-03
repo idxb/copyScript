@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Страница — 1" id="OmyJzAM3DbIjTTYe3HXy">
-    <mxGraphModel>
+    <mxGraphModel dx="764" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310.51" width="200" height="189.49" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-4" target="9Pd92zd7ntM-Qkf9hffd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-4" value="&lt;div&gt;Рабочие станции&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-5" target="9Pd92zd7ntM-Qkf9hffd-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-5" value="Windows Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server_2.svg;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-7" target="9Pd92zd7ntM-Qkf9hffd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-7" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Times New Roman&quot;&gt;Пользователи&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-8" target="9Pd92zd7ntM-Qkf9hffd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-8" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Защищенное&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;подключение&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/secure.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="329.38" width="20" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-9" value="ISS" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/site_collection.svg;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="620" y="321.51" width="50" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-10" target="9Pd92zd7ntM-Qkf9hffd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-10" value="MS SQL Server" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/sql_server.svg;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="531.5" y="410" width="38.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9Pd92zd7ntM-Qkf9hffd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Pd92zd7ntM-Qkf9hffd-17" target="9Pd92zd7ntM-Qkf9hffd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
